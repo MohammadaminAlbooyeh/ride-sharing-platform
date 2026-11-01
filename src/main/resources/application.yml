@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ride-sharing-platform
+  profiles:
+    active: dev
+
+server:
+  port: 8080
